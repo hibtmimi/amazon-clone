@@ -41,7 +41,7 @@ yarn install.
 - [x] Run your data base firebase from your command
 
   ```
-
+yarn start.
   ```
 
 - [x] From inside the repo directory go to functions directory and run
