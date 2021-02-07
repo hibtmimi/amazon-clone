@@ -41,6 +41,7 @@ yarn install.
 - [x] Run your data base firebase from your command
 
   ```
+  yarn start.
 
   ```
 
