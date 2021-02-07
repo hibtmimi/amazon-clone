@@ -40,10 +40,10 @@ yarn install.
 - [x] clone the repo OR download it.
 - [x] Run your data base firebase from your command
 
-  ```
-  yarn start.
+```
+yarn start.
 
-  ```
+```
 
 - [x] From inside the repo directory go to functions directory and run
   ```
